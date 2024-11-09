@@ -1,6 +1,5 @@
 "use client"
 import Column from "./components/Column";
-import SidebarMenu from "./components/SidebarMenu";
 
 export default function Home() {
   const columns = [
